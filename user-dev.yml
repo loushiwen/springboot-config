@@ -9,7 +9,7 @@ spring:
   application:
     name: user-service
 mybatis:
-  type-aliases-package: com.lsw.user.pojo.do
+  type-aliases-package: com.lsw.user.pojo
 eureka:
   client:
     service-url:
